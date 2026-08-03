@@ -1,12 +1,26 @@
-echo # Data Analytics Portfolio
+# Excel Retail Profitability Analysis
 
-I am a web developer transitioning into data analytics through the NPower JDA program.
+## Status
+Work in progress.
 
-This portfolio includes projects using Excel, SQL, Python, Power BI, Tableau, and data storytelling.
+## Business problem
+A national retailer needs to understand profitability, returns, discounting, product performance, and fulfilment.
 
-## Projects
+## Dataset
+Tableau Sample Superstore. Add the official source page and download date here.
 
-1. Excel Sales Analysis
-2. SQL + Python Data Cleaning
-3. Power BI Dashboard
-4. Tableau Dashboard
+## Skills demonstrated
+- Power Query cleaning and merging
+- Data validation and quality assurance
+- Excel formulas and dynamic arrays
+- PivotTables, PivotCharts, slicers, and timeline
+- Executive dashboard design
+- Business findings and recommendations
+
+## Dashboard preview
+Add this after completing the project:
+
+`![Dashboard](screenshots/05-final-dashboard.png)`
+
+## Repository structure
+Describe each folder and file after completion.
