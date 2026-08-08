@@ -1,14 +1,13 @@
 # Excel Retail Profitability Analysis
 
 ## Status
-Work in progress.
+Work Complete.
 
 ## Business problem
 A national retailer needs to understand profitability, returns, discounting, product performance, and fulfilment.
 
 ## Dataset
-Tableau Sample Superstore. Add the official source page and download date here.
-
+Tableau Sample Superstore available [here](https://public.tableau.com/app/sample-data/sample_-_superstore.xls)
 ## Skills demonstrated
 - Power Query cleaning and merging
 - Data validation and quality assurance
@@ -18,9 +17,8 @@ Tableau Sample Superstore. Add the official source page and download date here.
 - Business findings and recommendations
 
 ## Dashboard preview
-Add this after completing the project:
 
-`![Dashboard](screenshots/05-final-dashboard.png)`
+`![Dashboard](screenshots/final dashboard.png)`
 
 ## Repository structure
-Describe each folder and file after completion.
+Coming.....
